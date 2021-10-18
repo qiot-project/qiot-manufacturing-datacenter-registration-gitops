@@ -2,8 +2,8 @@ quarkus:
   build:
     enabled: false
   image:
-    name: quay.io/qiotmanufacturing/datacenter-registration
-    tag: 1.0.0.beta1-SNAPSHOT
+    name: quay.io/qiotproject/all-registration
+    digest: null
   deploy:
     replicas: 1
     resources:
