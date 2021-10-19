@@ -3,7 +3,7 @@ quarkus:
     enabled: false
   image:
     name: quay.io/qiotproject/all-registration
-    digest: sha256:44891c67d1a6e1c24ca86c44df7d92137de2862ef2d0fb6b9b992c09f279dbe2
+    digest: sha256:e9b92cfb017c18355978f43262a536c6f8ce13d9b5b8b6dea7713d3e595ee56c
   deploy:
     replicas: 1
     resources:
